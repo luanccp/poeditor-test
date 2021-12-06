@@ -1,0 +1,880 @@
+{
+  "0-1-SignUp": {
+    "title": "#earlybirds",
+    "subtitle": "Jetzt starten, Early Bird Angebot sichern!",
+    "usps": [
+      "keine Bezahlmethode notwendig",
+      "kein Abosystem",
+      "kostenlose Kurse, wenn du noch heute startest"
+    ],
+    "loginWithGoogle": "Mit Google anmelden",
+    "loginWithPhoneNumber": "Mit telefonnummer anmelden",
+    "consent": "Mit deiner Anmeldung akzeptierst du unsere <2>Nutzungsbedingungen</2> und <5>Datenschutzbestimmungen</5>",
+    "live": "Live"
+  },
+  "0-1-3-Interests": {
+    "title": "Was <0>interessiert</0> dich?",
+    "subTitle": "Wähle mindestens drei Themen aus.",
+    "next": "Weiter",
+    "save": "Speichern"
+  },
+  "0-1-4-AppTrackingTransparency": {
+    "title": "Hey{{username}}!",
+    "subTitle": "Bitte gib auf dem nächsten Screen deine Zustimmung, damit wir deinen Content personalisieren dürfen. So siehst du nur das, was du sehen willst. Cool, oder?",
+    "mainText": "Mach <0>das Beste</0> aus deinem App-Erlebnis!",
+    "confirm": "Bestätigen"
+  },
+  "0-2-3-Name": {
+    "title": "Stell <0>dich vor</0>",
+    "subTitle": "Zeig dich! Sag wer du bist und mach es anderen Menschen leichter, dich zu finden und sich mit dir zu verbinden.",
+    "namePlaceholder": "Vorname",
+    "surenamePlaceholder": "Nachname",
+    "next": "Weiter",
+    "charactersNotInRange": "Dein Nutzername kann 2 bis 150 Zeichen enthalten.",
+    "pleaseFillInForm": "Input gefordert!"
+  },
+  "0-1-1-Username": {
+    "title": "Nutzernamen <0>erstellen</0>",
+    "next": "Weiter",
+    "save": "Speichern",
+    "inputPlaceholder": "Nutzername",
+    "inputDescription": "Nutzernamen dürfen ausschließlich aus Römischen Buchstaben (a-z, A-Z), Zahlen, Unterstrichen und Punkten bestehen.",
+    "usernameError": "Dieser Nutzername ist nicht verfügbar.",
+    "charactersNotInRange": "Dein Nutzername kann 3 bis 20 Zeichen enthalten.",
+    "usernameNotEditable": "You can't edit your Username."
+  },
+  "0-1-2-Languages": {
+    "title": "Livecast-Sprache <0>auswählen</0>",
+    "subTitle1": "Diese Auswahl wird dein Feed beeinflussen, indem dir ausschließlich Sessions in deiner bevorzugten Sprache angezeigt werden,",
+    "subTitle2": "Das kannst du jederzeit ändern.",
+    "next": "Weiter",
+    "save": "Speichern"
+  },
+  "7-Calendar": {
+    "title": "Kalender",
+    "noSelectionDescription": "Finde hier deine täglich anstehenden Livecasts",
+    "noSessionsDescription": "Bisher hast du dich für keinen Livecast an diesem Tag eingetragen. Ändere das, um deine Ziele zu erreichen.",
+    "noSessionsDescriptionPast": "Bisher hast du dich für keinen Livecast an diesem Tag eingetragen. Ändere das, um deine Ziele zu erreichen.",
+    "cta": "Livecast finden"
+  },
+  "audioGrantPopup": {
+    "cta": "TEILNEHMEN",
+    "link": " Mit der Teilnahme akzeptiere ich die geltenden AGB",
+    "text": "Diese Session wird aufgenommen, um später als podcast veröffentlicht zu werden.",
+    "title": "Podcast session"
+  },
+  "autoJoinPopup": {
+    "description": "Für nachhaltigen Erfolg haben wir dich direkt für die nächste(n) Session(s) eingetragen.",
+    "optOut": "Nein danke!",
+    "title": "Gut gemacht!"
+  },
+  "catalogue": {
+    "price": "ab {{price}} {{currency}}",
+    "title": "KURSE"
+  },
+  "checkout": {
+    "confirmation": {
+      "confirmOrder": "Bestätige deine Bestellung",
+      "email": "Bitte gib deine Mail-Adresse ein",
+      "emailDisclamer": "Wir benötigen deine Email-Adresse für Buchungsbestätigungen sowie zum Wiederherstellen deines Accounts, falls sich deine Telefonnummer ändern sollte.",
+      "emailInput": "EMAIL",
+      "emailInvalid": "Ungültige Mail-Adresse. Bitte korrigieren.",
+      "emailPlaceholder": "beispiel@domain.de",
+      "forFree": "Gratis",
+      "grandTotal": "GESAMTSUMME",
+      "marketingOptIn": "Deine Privatsphäre ist uns sehr wichtig. Wir möchten deine Informationen nutzen, um dich über relevante Inhalte wie Produkt-Updates oder Aktionen zu informieren. ",
+      "emailToastMessage": "Wir haben dir eine Email mit einem Bestätigung-Link zukommen lassen. Diese sollte in spätestens 5 Minuten in deinem Mail-Postfach erscheinen. Mit der Bestätigung dieser Email hilfst du uns, das bestmögliche App-Erlebnis mit authentischen Nutzer*innen sicherzustellen. Danke!",
+      "packageSummarySubtitle": "{{amount}} {{currency}}",
+      "purchaseButton": "JETZT KAUFEN",
+      "subtotal": "Zwischensumme",
+      "summary": "Bestätigung",
+      "tax": "MwSt ({{percentage}}%)",
+      "dateTimeSummary": "AUSGEWÄHLTER WOCHENTAG",
+      "dateTimeSummary_plural": "AUSGEWÄHLTE WOCHENTAGE",
+      "packageSummary": "{{count}} Session für {{amount}} {{currency}}",
+      "packageSummary_plural": "{{count}} Sessions für {{amount}} {{currency}}",
+      "packageSummaryTitle": "{{count}} SESSION",
+      "packageSummaryTitle_plural": "{{count}} SESSIONS"
+    },
+    "deferred": {
+      "message": "Warte, bis deine Eltern oder Erziehungsberechtigten den Kauf genehmigt haben.",
+      "title": "Warten auf Genehmigung"
+    },
+    "done": {
+      "subtitle": "Buchung erfolgreich!\nWir wünschen dir viel Spaß bei unseren actio-Sessions.",
+      "title": "Alles Erledigt!"
+    },
+    "error": {
+      "subtitle": "Es gab ein Problem mit der Authentifizierung des Zahlungsmittels. Bitte wechsle die Zahlungsmethode oder versuche es später erneut.",
+      "title": "Ups!"
+    },
+    "title": "CHECKOUT"
+  },
+  "classDetails": {
+    "about": "Details",
+    "descriptionTitle": "Beschreibung",
+    "expectations": "Darum geht es",
+    "languages": "Sprachen",
+    "proficiencyLevelsTitle": "Geeignet für",
+    "requirements": "Was du benötigst",
+    "sessionDuration": "{{duration}} min",
+    "sessionDurationTitle": "Dauer",
+    "title": "Infos zum Livecast"
+  },
+  "coachDetail": {
+    "edit": "Bearbeiten",
+    "channelsTitle": "Meine Kanäle",
+    "infoTitle": "Über mich",
+    "qualifications": "Qualifikationen",
+    "nextThreeSessions": "Die nächsten 3 Sessions",
+    "playButtonText": "Play",
+    "seeFullList": "Vollständige Liste anzeigen",
+    "shareButtonText": "Teilen",
+    "shareCoachMessage": {
+      "loggedIn": "Lass uns gemeinsam an der actio Session von {{coachName}} teilnehmen.",
+      "notLoggedIn": "Schau dir diese actio Session von {{coachName}} an."
+    },
+    "teachesIn": "Spricht",
+    "title": "Coach"
+  },
+  "coaches": {
+    "title": "Unsere Coaches"
+  },
+  "coachSelfService": {
+    "calendar": {
+      "title": "Tag auswählen"
+    },
+    "courses": {
+      "minutesShort": "min",
+      "title": "Kurs auswählen",
+      "yourClasses": "Deine Kurse"
+    },
+    "schedulingSuccess": {
+      "goToCalendar": "Zum Kalender",
+      "message": "Geschafft!",
+      "description": "User können sich jetzt für deinen Livecast einschreiben",
+      "scheduleAnother": "Weitere Session planen",
+      "shareSession": "Leute einladen"
+    },
+    "schedulingSummary": {
+      "confirm": "Bestätigen",
+      "date": "Datum",
+      "error": "Etwas ist schief gegangen. Session wurde nicht erstellt.",
+      "time": "Uhrzeit",
+      "title": "Zusammenfassung"
+    },
+    "timeSlots": {
+      "noAvailableSlots": "Für diesen Tag sind keine Slots verfügbar.",
+      "title": "Startzeit wählen"
+    },
+    "classCreation": {
+      "selectButton": "Video auswählen",
+      "promoClipRequirements": "Ausrichtung: Hochformat/Querformat. Dauer: 10 bis 30 Sekunden.",
+      "promoClipOrientationRequirement": "Ausrichtung: Hochformat/Querformat",
+      "promoClipDurationRequirement": "Dauer: 10 bis 30 Sekunden",
+      "promoClipUploadFail": "Upload fehlgeschlagen",
+      "promoClipUploadFailCTA": "Los geht's",
+      "showMoreRequirements": "Mehr erfahren",
+      "continueWithoutButton": "Ohne Video fortfahren",
+      "noVideoSelected": "Kein Video ausgewählt",
+      "completeCreation": "Fertig!",
+      "closeModalTitle": "Abbrechen & verwerfen?",
+      "closeModalCTA": "Verwerfen",
+      "closeModalCancel": "Weitertüfteln",
+      "closeModalDescription": "Entwürfe können nicht gespeichert werden. Dein Werk geht verloren."
+    },
+    "classScheduling": {
+      "screenName": "Planung",
+      "session": "1 Livecast",
+      "accessibility": "2 Sichtbar für",
+      "public": "Alle",
+      "private": "User mit Link",
+      "next": "Weiter",
+      "date": "2 Datum",
+      "timeSlot": "3 Zeit",
+      "promoClip": "4 Promo Video",
+      "confirm": "Bestätigen",
+      "selectButton": "Video auswählen",
+      "promoClipRequirements": "Ausrichtung: Hochformat/Querformat. Dauer: 10 bis 30 Sekunden.",
+      "promoClipOrientationRequirement": "Ausrichtung: Hochformat/Querformat",
+      "promoClipDurationRequirement": "Dauer: 10 bis 30 Sekunden",
+      "promoClipUploadFail": "Upload fehlgeschlagen",
+      "promoClipUploadFailCTA": "Verstanden",
+      "showMoreRequirements": "Mehr anzeigen",
+      "continueWithoutButton": "Ohne Video fortfahren",
+      "noVideoSelected": "Kein Video ausgewählt",
+      "completeCreation": "Fertig!"
+    }
+  },
+  "doubleBooking": {
+    "currentlyScheduled": "GEPLANT\n",
+    "description": "Du nimmst bereits an einer anderen Session zu diesem Zeitpunkt teil. Bitte wähle die Session aus, an der du teilnehmen möchtest.",
+    "or": "oder",
+    "title": "Doppelte Buchung"
+  },
+  "error": {
+    "auth": {
+      "message": "Benutzer konnte nicht autorisiert werden",
+      "title": "Fehler"
+    },
+    "joinCompany": {
+      "message": "Du bist bereits Teil einer Organisation."
+    }
+  },
+  "fullSessionPopup": {
+    "message": "Ups! Du kannst der Session nicht beitreten, da sie gerade voll geworden ist."
+  },
+  "home": {
+    "title": "HOME",
+    "upcoming": {
+      "about": "Details",
+      "emptyList": {
+        "description": "Du hast dich für keine weiteren anstehenden Sessions eingetragen.",
+        "exploreSessions": "Kostenlos teilnehmen",
+        "title": "Machst du eine Pause?"
+      },
+      "enter": "JETZT TEILNEHMEN",
+      "exploreCourses": "Du hast dich für keine weiteren anstehenden Sessions eingetragen.",
+      "exploreSessionsButton": "Kostenlos teilnehmen",
+      "loggedOut": {
+        "description": "Hier werden deine anstehenden Sessions angezeigt. Log dich ein oder erstelle einen Account, um an einer Session teilzunehmen.",
+        "title": "Ausgeloggt"
+      },
+      "nextSession": "Nächste",
+      "status": {
+        "hoursFormat": "HH[h] mm[m]",
+        "live": "LIVE",
+        "minutesFormat": "mm[m] ss[sek]",
+        "startingIn": "Beginnt in"
+      },
+      "title": "ANSTEHEND",
+      "withCoach": "mit {{coachName}}"
+    }
+  },
+  "imagePicker": {
+    "chooseFromLibraryButton": "AUS GALERIE WÄHLEN",
+    "cropCancelButton": "Rückgängig",
+    "cropConfirmButton": "Anpassen",
+    "permissionsCameraUnavailableMessage": "Zugriff auf Kamera nicht möglich.",
+    "permissionsPhotoLibraryUnavailableMessage": "Foto-Galerie is nicht verfügbar.",
+    "permissionsServiceUnavailableTitle": "Service nicht verfügbar",
+    "removeImageButton": "BILD LÖSCHEN",
+    "removeImagePromptCancelButton": "Rückgängig",
+    "removeImagePromptConfirmButton": "Löschen",
+    "removeImagePromptDescription": "Möchtest du dein Profilbild wirklich löschen?",
+    "removeImagePromptTitle": "Bild löschen",
+    "takePictureButton": "BILD AUFNEHMEN"
+  },
+  "language": {
+    "de": "Deutsch",
+    "dk": "Dänisch",
+    "en": "Englisch",
+    "es": "Spanisch",
+    "fe": "Französisch"
+  },
+  "languageSelectionBooking": {
+    "confirmButton": "WEITER",
+    "description": "In welcher Sprache sollen die Sessions deines Kurses stattfinden? (Mehrfachauswahl möglich)",
+    "title": "SPRACHE AUSWÄHLEN"
+  },
+  "lobby": {
+    "coachDisconnectedView": {
+      "message": "Wir wissen es auch nicht, aber sind uns sicher, dass er/sie gleich wieder da ist. Bitte gedulde Dich einen Moment und bleibe in der aktuellen Session.",
+      "secondaryMessage": "ES GIBT EIN PROBLEM MIT DER VERBINDUNG DES COACHES.",
+      "title": "Wo steckt der Coach?"
+    },
+    "errors": {
+      "forbiddenError": "Es gab ein Problem. Bitte erneut versuchen oder den Support kontaktieren!"
+    },
+    "header": {
+      "company": "actio:",
+      "leave": "VERLASSEN"
+    },
+    "leavePopup": {
+      "alert": "Du kannst der laufenden Session jederzeit wieder vom Home Screen aus beitreten.",
+      "continueButton": "SESSION FORTSETZEN",
+      "leaveButton": "SESSION VERLASSEN",
+      "title": "Möchtest du die laufende Session wirklich verlassen?"
+    },
+    "networkErrorView": {
+      "message": "Es gibt ein Problem mit der Netzwerkverbindung.",
+      "reconnectIn": "Wiederverbindung in",
+      "reconnectNow": "Jetzt erneut verbinden",
+      "title": "Keine Verbindung"
+    },
+    "participantActivity": {
+      "event": {
+        "joined": "ist beigetreten.",
+        "left": "ist fort.",
+        "waved": "winkt."
+      },
+      "muteAll": "Alle",
+      "muteMe": "Mikro",
+      "muteMusic": "Musik",
+      "wave": "Winken"
+    },
+    "participantFeedbackWidget": {
+      "body": "Feiere jetzt deinen Erfolg mit den anderen.",
+      "popular": "Derzeit beliebt",
+      "title": "Geschafft!",
+      "wait": "Warten auf Feedback..."
+    },
+    "participants": {
+      "anonymous": "Anonym",
+      "gender": {
+        "female": "♀",
+        "male": "♂"
+      },
+      "level": {
+        "new": "🆕"
+      },
+      "title": "Teilnehmer"
+    },
+    "phases": {
+      "focus": {
+        "title": "Fokus"
+      },
+      "sessionStartsIn": "Session starts in"
+    },
+    "player": {
+      "startSession": "Session starten",
+      "timerStartIn": "Start in",
+      "timerStartNow": "Bitte anfangen!",
+      "total": "GESAMT"
+    }
+  },
+  "login": {
+    "addPhoneNumber": "Telefonnummer eingeben",
+    "description": "Um Sie zu einer Sitzung einzuladen, benötigen wir Ihre Telefonnummer.",
+    "error": "Leider existiert die Handynummer nicht. Bitte überprüfen Sie Ihre Eingabe.",
+    "loginWithGoogle": "Mit Google anmelden",
+    "loginWithPhoneNumber": "Handynummer verwenden",
+    "noCodeDialog": {
+      "reason1": "Überprüfen Sie Ihre Telefonnummer. Möglicherweise liegt ein Tippfehler vor.",
+      "reason2": "Möglicherweise ist ein Verbindungsfehler aufgetreten. <2>CODE JETZT RESENDEN</2>",
+      "reasons": "Dass Sie keinen Code erhalten haben, kann mehrere Gründe haben:",
+      "title": "Schade!"
+    },
+    "phoneNumber": "Handy-Nr.",
+    "searchCountry": "Suche...",
+    "sendSmsButton": "ÜBERPRÜFUNGS-SMS SENDEN",
+    "signingIn": "Melde an...",
+    "success": {
+      "continueButton": "WEITER",
+      "message": "Registrierung erfolgreich Wir wünschen dir viel Spaß mit actio."
+    },
+    "termsAndConditions": "AGB's",
+    "title": "Anmelden oder registrieren",
+    "verify": {
+      "checkCode": "CODE ÜBERPRÜFEN",
+      "description": "Wir haben gerade eine SMS an diese Nummer gesendet, um zu überprüfen, ob es Ihre ist. Bitte geben Sie es unten ein.",
+      "error": "Leider stimmt der Code nicht überein. Bitte überprüfen Sie Ihre Eingabe.",
+      "noCodeReceived": "Ich habe keinen Code erhalten",
+      "terms": "Durch das Erstellen eines Kontos stimmen Sie unseren <2>Nutzungsbedingungen</2> und <5>Datenschutzrichtlinien</5> zu",
+      "title": "Nummer bestätigen"
+    }
+  },
+  "notFound": {
+    "message": "Der Eintrag {{elementName}} existiert nicht in unserer Datenbank oder du hast keinen Zugriff auf ihn.",
+    "title": "Etwas ist schiefgelaufen"
+  },
+  "oqr": {
+    "cancel": "Abbrechen",
+    "emptyQueue": "Keine Fragen",
+    "handRaised": "Hand erhoben",
+    "moreInQueue": "Mehr als +{{count}}",
+    "mute": "Stumm",
+    "nowSpeaking": {
+      "title": "Gerade sprechen:"
+    },
+    "questionRound": "Fragerunde",
+    "queuePosition": "Deine Position: {{position}}",
+    "raiseHandButton": "Hand heben",
+    "start": "Starten",
+    "startQuestionRound": "Fragerunde starten\n",
+    "unmute": "Aufheben",
+    "xInQueue": "{{count}} Anfragen",
+    "youAreNext": "Du bist gleich dran",
+    "yourTurn": "Du bist dran!"
+  },
+  "ourCoaches": {
+    "empty": {
+      "message": "Wir arbeiten derzeit fieberhaft an der Produktion für Kurse dieser Kategorie.",
+      "title": "IN ARBEIT"
+    },
+    "noConnection": {
+      "message": "Es gibt Probleme beim Verbindungsaufbau.",
+      "title": "Keine Verbindung möglich"
+    }
+  },
+  "packageSelection": {
+    "confirmButton": "BESTÄTIGEN",
+    "continueButton": "WEITER",
+    "incVat": "inkl. MwSt",
+    "oneTimePurchase": "EINMALKAUF.\nKEIN ABO!",
+    "package": {
+      "forFree": "Gratis",
+      "perWeek": "WOCHE",
+      "perWeeks": "WOCHEN",
+      "sessions": "SESSIONS",
+      "description": "{{count}} SESSION <1>for</1> {{amount}} {{currency}}",
+      "description_plural": "{{count}} SESSIONS <1>for</1> {{amount}} {{currency}}",
+      "sessionsText": "{{amount}} {{currency}} / Session",
+      "sessionsText_plural": "{{amount}} {{currency}} / Session"
+    },
+    "subtitle": "Bitte wähle die gewünschte Anzahl von Sessions für diesen Kurs.",
+    "title": "PAKETAUSWAHL"
+  },
+  "payment": {
+    "card": {
+      "cvv": "CVV",
+      "expiry": "EXP DATE",
+      "name": "CARDHOLDER NAME",
+      "number": "KARTENNUMMER",
+      "title": "Details eingeben"
+    },
+    "chooseMethod": "Wähle deine bevorzugte Zahlungsmethode aus",
+    "continueButton": "WEITER",
+    "title": "ZAHLUNG"
+  },
+  "1-0-Feed": {
+    "card": {
+      "startsIn": "Beginnt in",
+      "mins": "Min"
+    }
+  },
+  "1-0-3-Permissions": {
+    "camera": {
+      "description": "benötigt, um Profilbilder aufzunehmen ",
+      "title": "Kamera"
+    },
+    "goToSettings": "Zu den Einstellungen",
+    "microphone": {
+      "description": "benötigt, um mit dem Coach und anderen Teilnehmern zu sprechen",
+      "title": "Mikrofon"
+    },
+    "notGrantedTitle": "Erforderliche Berechtigungen fehlen",
+    "notifications": {
+      "description": "benötigt, um dich für eine geplante Session anzurufen",
+      "title": "Benachrichtigungen"
+    },
+    "photoLibrary": {
+      "description": "benötigt, um eine Profilbild hochzuladen",
+      "title": {
+        "android": "Externen Speicher auslesen",
+        "ios": "Galerie"
+      }
+    },
+    "description": "Zugriff erlauben, um folgende App-Features zu nutzen:",
+    "title": "Berechtigungen",
+    "retry": "WIEDERHOLEN"
+  },
+  "profile": {
+    "birthday": "Geburtsdatum",
+    "cancel": "Abbrechen",
+    "coach": {
+      "address": {
+        "title": "Adresse/Anschrift"
+      },
+      "coachProfile": {
+        "languages": "Sprachen",
+        "picture": "Coach Bild",
+        "shortDescription": "Kurzbeschreibung",
+        "title": "Coach Profil"
+      },
+      "countryInfo": {
+        "city": "Stadt",
+        "countryOfResidence": "Aufenthaltsland",
+        "firstAddressLine": "Adresszeile 1",
+        "postalCode": "Postleitzahl",
+        "secondAddressLine": "Adresszeile 2",
+        "state": "Bundesland",
+        "title": "Länderinformation"
+      },
+      "countryPicker": {
+        "title": "Land"
+      },
+      "paymentInfo": {
+        "bankAccount": "Kontonummer",
+        "bankAccountHelp": "Eintragen, wenn du keine IBAN hast",
+        "bankName": "Name der Bank",
+        "bic": "BIC",
+        "companyName": "Firmenname / Kontoinhaber",
+        "companyNameHelp": "Trage deinen Namen ein, falls du nicht für eine Firma arbeitest",
+        "creditorNumber": "Creditor number",
+        "iban": "IBAN",
+        "nonEditableMessage": "Zahlungsinformation können aus Sicherheitsgründen nicht editiert werden. Um Änderungen vorzunehmen wende dich bitte an den Kundendienst.",
+        "smallEntrepreneur": "Kleinunternehmer",
+        "taxId": "UStID",
+        "taxNumber": "Steuernummer",
+        "title": "Zahlungsinformationen "
+      },
+      "qualifications": {
+        "listEmptyMessage": "Auf \"+\" drücken, um eine Qualifikation hinzuzufügen.",
+        "listEmptyTitle": "Beginnen",
+        "title": "Qualifikationen"
+      },
+      "socialNetworks": {
+        "listEmptyMessage": "Auf \"+\" drücken, um einen Kommunikationskanal hinzuzufügen.",
+        "listEmptyTitle": "Anfangen",
+        "title": "Kanäle"
+      },
+      "timezone": {
+        "tapToSelect": "Tippen zum Auswählen",
+        "title": "Zeitzone"
+      }
+    },
+    "editSubmitButton": "SPEICHERN",
+    "email": "E-Mail",
+    "emailEditDescription": "Die Mail-Adresse wird für die Buchungsbestätigung sowie zur Wiederherstellung deines Accounts beim Wechseln der Telefonnummer benötigt.",
+    "emailHeadline": "Mail-Adresse",
+    "errors": {
+      "genericEnterError": "Ups...etwas ist schief gelaufen. Stelle sicher, dass alle Angaben korrekt sind und versuche es noch einmal."
+    },
+    "firstName": "Vorname",
+    "fullName": "Name",
+    "fullNameDescription": "Der Name wird ausschließlich für die Kommunikation mit dir verwendet.",
+    "fullNameEditError": "Der Name muss zwischen 2 und 30 Zeichen lang sein.",
+    "fullNameHeadline": "Name",
+    "gender": "Geschlecht",
+    "genderEditDescription": "Dein Geschlecht ist für andere Session-Teilnehmer sichtbar. Du kannst deine Auswahl jederzeit zurücksetzen.",
+    "genderFemale": "weiblich",
+    "genderHeadline": "Geschlecht",
+    "genderMale": "männlich",
+    "genderNotSpecified": "keine Angabe",
+    "joinCompanyToastMessage": "Du bist ein Teil von {{companyName}}.",
+    "languages": "Sprachen",
+    "lastName": "Name",
+    "nickname": "Nutzername",
+    "nicknameEditDescription": "Dieser Name wird anderen app-Nutzern angezeigt. Die Angabe eines Nutzernamens schaltet zusätzliche features innerhalb deiner Sessions frei.",
+    "nicknameEditError": "Der Nutzername muss zwischen 2 und 18 Zeichen lang sein.",
+    "nicknameEditLabel": "NUTZERNAME",
+    "nicknameEditPlaceholder": "Namen eingeben",
+    "nicknameHeadline": "Nutzername",
+    "notLoggedIn": {
+      "contentDescription": "Bitte logge dich ein oder registriere deinen Account um Zugriff auf dein Profil zu erhalten.",
+      "contentTitle": "Account"
+    },
+    "phone": "Telefon",
+    "picture": {
+      "cropImageScreenTitle": "Passe dein Profilbild an",
+      "editModalTitle": "Profilbild anpassen"
+    },
+    "title": "ACCOUNT"
+  },
+  "2-sessionsList": {
+    "empty": {
+      "title": "Hoppla!",
+      "message": "Leider gibt es gerade keinen Livecast, der deine Suchkriterien erfüllt. Passe deine Angaben noch einmal an, um eine Session zu finden."
+    },
+    "filters": {
+      "title": "Session-Filter",
+      "apply": "Anwenden",
+      "allOption": "Alle"
+    },
+    "card": {
+      "cta": {
+        "book": "Bin dabei",
+        "booked": "Gebucht",
+        "connect": "Teilnehmen"
+      }
+    }
+  },
+  "2-2-sessionDetails": {
+    "title": "Infos zum Livecast",
+    "cta": {
+      "connect": "Teilnehmen",
+      "book": "Bin dabei",
+      "booked": "Gebucht",
+      "full": "Ausgebucht"
+    },
+    "status": {
+      "done": "ERLEDIGT",
+      "live": "LIVE",
+      "missed": "VERPASST"
+    },
+    "content": {
+      "lengthMinutesSuffix": "Min",
+      "description": "Beschreibung",
+      "participants": "Wer mitmacht",
+      "expectations": "Darum geht es",
+      "proficiencyLevels": "Level",
+      "requirements": "Was du benötigst",
+      "with": "mit"
+    },
+    "shareSessionMessage": {
+      "coachLoggedIn": "Mach mit bei der actio Session {{sessionName}} von {{coachName}}.",
+      "loggedIn": "Lass uns gemeinsam an der actio Session {{sessionName}} von {{coachName}} teilnehmen.",
+      "notLoggedIn": "Check out {{sessionName}} mit {{coachName}} in der actio app."
+    },
+    "finishedSessionPopup": {
+      "explore": "Sessions entdecken",
+      "message": "Diese Session ist bereits vorbei. Aber schaue gerne bei unseren anderen Sessions nach, ob etwas für dich dabei ist.",
+      "title": "Du hast es verpasst!"
+    },
+    "participants": {
+      "title": "Teilnehmer",
+      "anonymous": "Anonym"
+    }
+  },
+  "1-2-FeedMoreActions": {
+    "shareSession": "Session-Link teilen",
+    "sessionDetails": "Session Details",
+    "viewProfile": "Profil ansehen",
+    "cancel": "Abbrechen"
+  },
+  "recommendationPopup": {
+    "CTA": "Ich bin dabei!",
+    "description": "Für nachhaltigen Erfolg  jetzt direkt weitere Sessions buchen.",
+    "SkipButton": "Überspringen",
+    "title": "Weiter so!"
+  },
+  "requiredLoginPopup": {
+    "cta": "Anmelden oder registrieren",
+    "text": "Bitte registrieren oder einloggen um an Sessions teilzumehmen.",
+    "title": "Logged out"
+  },
+  "room": {
+    "coachDisconnectedView": {
+      "message": "Wir wissen es auch nicht, aber sind uns sicher, dass er/sie gleich wieder da ist. Bitte gedulde Dich einen Moment und bleibe in der aktuellen Session.",
+      "secondaryMessage": "Es gibt ein Problem mit der Verbindung des Coaches.",
+      "title": "Wo steckt der Coach?"
+    },
+    "cohost": {
+      "actions": {
+        "invite": "Co-Host",
+        "undoInvite": "Ablehnen",
+        "remove": "Beenden"
+      },
+      "invitation": {
+        "title": "{{coachName}} lädt dich ein Co-Host zu sein!",
+        "decline": "Nein, danke",
+        "accept": "Los geht's"
+      },
+      "toast": {
+        "coachCanceledInvitation": {
+          "title": "Einladung zurückgezogen",
+          "message": "Momentan ist kein Co-Hosting möglich. Bleib aufmerksam, bald geht's weiter!"
+        },
+        "coachCanceledCohosting": {
+          "title": "Du hast das Co-Hosting beendet",
+          "message": "Genieße deine Session als Teilnehmer*in."
+        }
+      }
+    },
+    "connecting": {
+      "connecting": "Verbinden..."
+    },
+    "crossfade": {
+      "title": "Start in"
+    },
+    "lobby": {
+      "criticallyLowSlotsMuted": "Dein Mikrofon wurde stummgeschaltet, um Lärm zu vermeiden. Achte darauf es einzuschalten, bevor du sprichst."
+    }
+  },
+  "loveActioPopup": {
+    "title": "Gefällt dir Actio?",
+    "text": "Gib Actio 5 Sterne und hilf uns, noch besser zu werden. Danke!",
+    "rateUs": "5 Sterne",
+    "skipPopup": "Nein, danke"
+  },
+  "sessionRating": {
+    "coach": "Coach",
+    "content": "Inhalt",
+    "endTitle": "Vielen Dank für dein Feedback!",
+    "no": "Nein ",
+    "rateTitle": "Hilf uns, besser zu werden! Bitte bewerte:",
+    "submit": "Bestätigen",
+    "title": "Hat dir die Session gefallen?",
+    "videoAndAudio": "Video- & Audioqualität",
+    "yes": "Ja"
+  },
+  "sideMenu": {
+    "footer": {
+      "dataProtection": "DATENSCHUTZINFORMATION",
+      "demo": "DEMO SESSION",
+      "imprint": "IMPRESSUM",
+      "logout": "ABMELDEN",
+      "termsAndConditions": "AGB's"
+    },
+    "header": {
+      "goToProfileButton": "Zum Profil",
+      "loggedInTitle": "PROFIL",
+      "loginButton": "Jetzt einloggen",
+      "notLoggedInTitle": "PROFIL",
+      "title": "Menü"
+    },
+    "menu": {
+      "becomeCoach": "Werde ein Coach",
+      "catalogue": "Katalog",
+      "faq": "Häufig gestellte Fragen",
+      "giveUsFeedback": "Feedback geben",
+      "howItWorks": "So funktioniert es",
+      "messageCenter": "Nachrichten Center",
+      "ourCoaches": "Unsere Coaches",
+      "scheduleSession": "Eigene Session planen",
+      "support": "Kundenservice"
+    }
+  },
+  "sthWentWrong": {
+    "cta": "Erneut versuchen",
+    "message": "Bitte verbinde dich mit dem Internet.",
+    "title": "Etwas ist schiefgelaufen"
+  },
+  "subscription": {
+    "introductorySummaryFreeTrial": "{{introductoryPeriod}} gratis",
+    "introductorySummaryPayAsYouGo": "{{introductoryPeriod}} mit {{pricePerPeriod}}",
+    "introductorySummaryUpfront": "{{introductoryPeriod}} für {{price}}",
+    "postIntroductorySummaryThen": "Dann {{pricePerPeriod}}"
+  },
+  "support": {
+    "buttonText": "SCHREIBE UNS",
+    "contact": "KONTAKT",
+    "email": "contact@actio.com",
+    "message": "Bei Fragen, Anregungen, Problemen oder anderen Angelegenheiten schreib uns bitte eine Mail an:",
+    "secondaryMessage": "oder direkt über die unten stehende Schaltfläche.",
+    "title": "Wir sind für dich da!"
+  },
+  "timeBooking": {
+    "continueButton": "WEITER",
+    "day": {
+      "0": "Mo.",
+      "1": "Di.",
+      "2": "Mi.",
+      "3": "Do.",
+      "4": "Fr.",
+      "5": "Sa.",
+      "6": "So."
+    },
+    "dayFullName": {
+      "0": "Montag",
+      "1": "Dienstag",
+      "2": "Mittwoch",
+      "3": "Donnerstag",
+      "4": "Freitag",
+      "5": "Samstag",
+      "6": "Sonntag"
+    },
+    "infoText1": "SESSIONS WIEDERHOLEN SICH ZU AUSGEWÄHLTEN ZEITEN BIS SÄMTLICHE SESSIONS EINES PAKETES AUFGEBRAUCHT SIND.",
+    "infoText2": "GEBUCHTE SESSIONS KÖNNEN KOSTENFREI UMGEBUCHT WERDEN.",
+    "infoTitle": "Einen Kurs buchen",
+    "noTimeslots": "Leider sind für diesen Tag keine freien Sitzungsplätze mehr verfügbar. Bitte wählen Sie einen anderen aus.",
+    "sessionDuration": "Hinweis: Eine Session dauert für gewöhnlich nur {{duration}} Minuten.",
+    "subtitle": "An <1>welchen Tagen</1> möchtest Du an diesem Kurs teilnehmen?",
+    "subtitleDaySelection": "Wie oft pro Woche möchtest du üben?",
+    "subtitleTimeSelection": "Wähle eine Uhrzeit aus für deine Sessions am {{selectedWeekday}}.",
+    "timePicker": {
+      "cancel": "abbrechen",
+      "confirm": "bestätigen",
+      "title": "Zeit auswählen"
+    },
+    "timePickerSlotNotAvailable": "Nicht verfügbar",
+    "title": "SESSION SCHEDULING",
+    "infoText3": "FÜR DIESEN KURS EMPFEHLEN WIR DIE TEILNAHME VON {{count}} SESSION PRO WOCHE.",
+    "infoText3_plural": "FÜR DIESEN KURS EMPFEHLEN WIR DIE TEILNAHME VON {{count}} SESSIONS PRO WOCHE.",
+    "optimalPackage": "Für ein optimales Ergebnis empfehlen wir, mindestens <1>{{count}} Tag</1> auszuwählen",
+    "optimalPackage_plural": "Für ein optimales Ergebnis empfehlen wir, mindestens <1>{{count}} Tage</1> auszuwählen"
+  },
+  "tooLateToUnbookSessionPopup": {
+    "message": "Hoppla! Du kannst die Session nicht verlassen, denn sie beginnt gerade. Wir empfehlen dir teilzunehmen."
+  },
+  "trialPopup": {
+    "cta": "LOS GEHT'S!",
+    "text": "Melde dich jetzt an und wähle deinen Lieblingskurs aus. Die ersten drei Sessions gehen unverbindlich auf actio.",
+    "title": "Drei Sessions für 0€"
+  },
+  "02-PhoneLogin": {
+    "enterPhone": {
+      "title": "Gib deine <0>Telefonnummer ein</0>",
+      "subTitle": "Gib uns deine Nummer, um Livecasts besuchen zu können und die volle Experience zu genießen.",
+      "phonePlaceholder": "012 345 67 89",
+      "sendSMS": "Verifizierungs-SMS senden",
+      "invalidNumber": "Hmm... da stimmt was nicht. Bitte überprüfe deine Eingabe noch einmal.",
+      "search": "Suchen"
+    },
+    "verifyPhone": {
+      "title": "Verifiziere deine <0>Telefonnummer</0>",
+      "subTitle": "Wir haben dir soeben eine Nachricht mit deinem Verifizierungscode gesendet. Bitte gib diesen hier ein",
+      "noCode": "Ich habe keine Nachricht erhalten",
+      "invalidCode": "Ups! Der Code ist nicht korrekt. Bitte versuche es noch einmal.",
+      "checkCode": "Code prüfen",
+      "resendCode": "Kein Code?",
+      "noCodeReason": "Bitte überprüfe deine Telefonnummer noch einmal. Vielleicht hast du dich vertippt oder es lag ein Verbindungsfehler vor. Dann unten klicken."
+    }
+  },
+  "tutorial": {
+    "b2bOffer": {
+      "description": "Nim an Live-Kursen mit Top-Coaches teil. \nUnd zwar kostenlos!",
+      "subtitle": "actio Teams!",
+      "title": "Willkommen bei",
+      "usps": [
+        "Exlusive Teamsitzungen",
+        "Kostenloser individueller App-Zugang",
+        "Keine Kreditkarte erforderlich",
+        "Schnelle Anmeldung"
+      ]
+    },
+    "completeTitle": "JETZT DURCHSTARTEN",
+    "emoji": "🚀",
+    "offer": {
+      "description": "Solange wir uns noch in der Testphase befinden, sind alle Kurse für dich kostenfrei!",
+      "subtitle": "100% kostenfreie Kurse",
+      "title": "Early-Bird-Angebot",
+      "usps": [
+        "KOSTENFREIE Live Kurse",
+        "Kein Abomodell",
+        "Keine Bezahlmethode erforderlich"
+      ]
+    },
+    "skip": "Überspringen",
+    "subtitle": "🔥 Alle Sessions immer LIVE 🔥",
+    "title": "Gratis Coaching",
+    "usps": ["100% Gratis", "100% LIVE", "100% MOTIVATION"]
+  },
+  "header": {
+    "skip": "Überspringen"
+  },
+  "settings": {
+    "settingPreview": {
+      "interests": "Your Interests",
+      "setInterests": "It’s about time to set up your interests.",
+      "languages": "Livecast Languages",
+      "setLanguages": "It’s about time to set up your languages."
+    }
+  },
+  "utils": {
+    "buttons": {
+      "follow": "Folgen",
+      "following": "Folge ich",
+      "collapse": "Weniger",
+      "copiedToClipboard": "In die Zwischenablage kopiert",
+      "expand": "Mehr"
+    },
+    "duration": {
+      "singular": {
+        "day": "Tag",
+        "month": "Monat",
+        "week": "Woche",
+        "year": "Jahr"
+      }
+    },
+    "inputs": {
+      "search": "Suche..."
+    },
+    "toasts": {
+      "majorUpdateSubtitle": "Jetzt aktualisieren",
+      "majorUpdateTitle": "Bitte aktualisiere deine App."
+    }
+  },
+  "versions": {
+    "forcedUpdate": {
+      "cta": "Jetzt aktualisieren",
+      "text": "Deine App ist nicht auf dem neuesten Stand. Bitte aktualisiere auf {{latestVersion}}, um die App weiterhin nutzen zu können.",
+      "title": "Neue Version verfügbar!"
+    },
+    "minorUpdate": {
+      "cta": "Aktualisieren",
+      "title": "actio {{latestVersion}} ist verfügbar. Bitte aktualisiere deine App für ein besseres Nutzererlebnis.\n"
+    }
+  }
+}
